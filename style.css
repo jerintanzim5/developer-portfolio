@@ -37,3 +37,27 @@ section{
     background-repeat: no-repeat;
     
 }
+section{
+    display: flex;
+    margin-bottom:100px ;
+}
+
+.width1 img{
+    width:60%;
+    border-radius:50%;
+    
+    margin: 10%;
+
+}
+.width2{
+    width:90%;
+    padding-right: 20%;
+
+}
+.dream_big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+    
+}
