@@ -1,3 +1,6 @@
+
+
+
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -9,3 +12,23 @@ span{
     color:#c23f0b;
 
 }
+section{
+    display:flex;
+}
+.one{
+    width:50%;
+    padding:0 0 0 90px ;
+}
+.two img{
+    width:80%;
+}
+.link_button{
+    text-decoration: none;
+    background-image:linear-gradient(orange, #f0482a);
+    color:#fff;
+    font-weight:700;
+    padding:10px 40px;
+    margin:50px 0 0 0;
+    border-radius: 5px;
+}
+
